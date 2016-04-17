@@ -1,0 +1,2 @@
+C:\Users\jairo\AndroidStudioProjects\sinch-rtc-sample-messaging\build\intermediates\classes\debug
+C:\Users\jairo\AndroidStudioProjects\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.9.3-fa1dfe2e86e4581d299266ba7ccba25577f24e35.jar

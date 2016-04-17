@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jairo\AndroidStudioProjects\sinch-rtc-sample-messaging\libs\sinch-android-rtc-3.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a34c88d2786ce2c14a6d7ee235a64d4c5310152">
+        <dex dex="C:\Users\jairo\AndroidStudioProjects\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.9.3-fa1dfe2e86e4581d299266ba7ccba25577f24e35.jar" />
+    </item>
+
+</items>
